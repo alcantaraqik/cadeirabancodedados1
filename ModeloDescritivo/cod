@@ -1,1 +1,20 @@
 
+TED 03
+
+Desenvolvam em equipe o modelo descritivo de dados de acordo com o assunto escolhido na planilha de Planejamento - Projeto Prático
+
+
+
+A plataforma Disney+ requisitou uma criação de um sistema de informações (banco de dados). Os requisitos desejados são listados abaixo:
+
+Criação e cadastro de usuário com as seguintes informações: Nome, data de nascimento, cartão de credito e e-mail.
+
+Cada conta poderá criar até 6 perfis de usuário, podendo assistir em 3 telas simultâneas. Com opção de upgrade caso o plano não atenda as necessidades.
+
+A cobrança deverá ser feita a cada 30 dias, caso o no dia da cobrança não houver êxito no pagamento, será feita outra tentativa após 4 dias. Caso chegue no vigésimo dia e não tiver sucesso no pagamento, a conta será bloqueada temporariamente até o usuário realizar o pagamento manualmente.
+
+Também é desejável uma lista com os filmes mais assistidos por usuario, para a indicação de filmes ser mais precisa. 
+
+Todo filme da nossa lista deverá ter: Código, Genero, Ano, avaliações em estrela (1-5), classificação de idade, caso seja série, informar: quantidade de temporadas e episódios.
+
+
